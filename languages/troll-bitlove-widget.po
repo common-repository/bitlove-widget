@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2012-06-20 13:51+0100\n"
+"PO-Revision-Date: 2016-03-31 12:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././troll_-bitlove-widget.php:29
+msgid "Display a bitlove button to your profil page or feed page."
+msgstr "Zeigt ein bitlove Button an, der auf Ihre Profil.- oder Feedseite verweist."
+
+#: .././troll_-bitlove-widget.php:73
+msgid "Title:"
+msgstr "Titel:"
+
+#: .././troll_-bitlove-widget.php:77
+msgid "Username:"
+msgstr "Benutzername:"
+
+#: .././troll_-bitlove-widget.php:81
+msgid "Feedname:"
+msgstr "Feedname:"
+
+#: .././troll_-bitlove-widget.php:86
+msgid "Use JavaScript:"
+msgstr "JavaScript benutzen:"
+
+#: .././troll_-bitlove-widget.php:106
+msgid "Donate"
+msgstr "Spenden"
+
+#: .././troll_-bitlove-widget.php:107
+msgid "Support"
+msgstr "Hilfe"
